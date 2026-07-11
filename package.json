@@ -1,8 +1,8 @@
 {
   "name": "sftp-sync-drawncodes",
-  "displayName": "SFTP Sync — DRAWNCODES",
+  "displayName": "SFTP / FTP Sync",
   "description": "Fast SFTP/FTP sync for VS Code — upload on save, sync directories, and browse remote files.",
-  "version": "1.16.3",
+  "version": "1.16.4",
   "publisher": "DRAWNCODES",
   "author": "DRAWNCODES (https://drawncodes.com)",
   "engines": {

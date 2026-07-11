@@ -1,4 +1,4 @@
-# SFTP Sync
+# SFTP / FTP Sync
 
 Sync your local workspace to a remote server over **SFTP/SSH** or **FTP/FTPS** — straight from VS Code. Edit files locally with the editor you already know, and have every change pushed to the server automatically on save. Download, diff, watch, and browse the remote filesystem without leaving the editor.
 
