@@ -24,18 +24,18 @@ Sync your local workspace to a remote server over **SFTP/SSH** or **FTP/FTPS** �
 
 ## Installation
 
-This build ships as a `.vsix` package.
+Install from the VS Code Marketplace:
 
 1. Open the Extensions view (`Ctrl+Shift+X`).
-2. Open the `…` (More Actions) menu → **Install from VSIX…**.
-3. Select `sftp-1.16.3.vsix`.
-4. Reload the window when prompted.
+2. Search for **SFTP Sync** (by **DRAWNCODES**) and click **Install**.
 
 Or from a terminal:
 
 ```bash
-code --install-extension sftp-1.16.3.vsix
+code --install-extension DRAWNCODES.sftp-sync
 ```
+
+Or in Quick Open (`Ctrl+P`): `ext install DRAWNCODES.sftp-sync`.
 
 ---
 
