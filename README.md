@@ -32,10 +32,10 @@ Install from the VS Code Marketplace:
 Or from a terminal:
 
 ```bash
-code --install-extension DRAWNCODES.sftp-sync
+code --install-extension DRAWNCODES.sftp-sync-drawncodes
 ```
 
-Or in Quick Open (`Ctrl+P`): `ext install DRAWNCODES.sftp-sync`.
+Or in Quick Open (`Ctrl+P`): `ext install DRAWNCODES.sftp-sync-drawncodes`.
 
 ---
 
